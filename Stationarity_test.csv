@@ -1,0 +1,34 @@
+,Time series,Stationary/Non-Stationary,1st difference,2nd difference
+0,"A2 -  geschreddert in ['25', '24']",Non-Stationary,Stationary,Stationary
+1,"A1 & A2 -  geschreddert in ['25', '24']",Non-Stationary,Stationary,Stationary
+2,"A2 & A3 -  geschreddert in ['25', '24']",Non-Stationary,Stationary,Stationary
+3,"A3 -  geschreddert in ['80', '81', '82', '83', '84', '85', '93', '94']",Non-Stationary,Stationary,Stationary
+4,"A1 & A2 -  geschreddert in ['80', '81', '82', '83', '84', '85', '93', '94']",Non-Stationary,Stationary,Stationary
+5,"A2 & A3 -  geschreddert in ['80', '81', '82', '83', '84', '85', '93', '94']",Non-Stationary,Stationary,Stationary
+6,"A2 & A3 -  geschreddert in ['70', '71', '73', '74', '75', '76']",Non-Stationary,Stationary,Stationary
+7,"A2 & A3 -  geschreddert in ['50', '51', '52', '53']",Non-Stationary,Non-Stationary,Stationary
+8,"A3 -  geschreddert in ['50', '51', '52', '53']",Non-Stationary,Stationary,Stationary
+9,"A2 & A3 -  ungeschreddert in ['40', '41', '42', '44', '45', '46', '47']",Non-Stationary,Non-Stationary,Stationary
+10,"A1 & A2 -  ungeschreddert in ['40', '41', '42', '44', '45', '46', '47']",Non-Stationary,Stationary,Stationary
+11,"A2 & A3 -  geschreddert in ['40', '41', '42', '44', '45', '46', '47']",Non-Stationary,Stationary,Stationary
+12,"A3 -  geschreddert in ['40', '41', '42', '44', '45', '46', '47']",Non-Stationary,Non-Stationary,Stationary
+13,"A1 & A2 -  geschreddert in ['40', '41', '42', '44', '45', '46', '47']",Non-Stationary,Stationary,Stationary
+14,"A2 -  geschreddert in ['40', '41', '42', '44', '45', '46', '47']",Non-Stationary,Stationary,Stationary
+15,"A2 -  geschreddert in ['26', '27', '28']",Non-Stationary,Stationary,Stationary
+16,"A3 -  geschreddert in ['26', '27', '28']",Non-Stationary,Stationary,Stationary
+17,"A1 & A2 -  geschreddert in ['26', '27', '28']",Non-Stationary,Stationary,Stationary
+18,"A2 & A3 -  geschreddert in ['26', '27', '28']",Non-Stationary,Stationary,Stationary
+19,"A2 & A3 -  ungeschreddert in ['48', '49']",Non-Stationary,Stationary,Stationary
+20,"A3 -  ungeschreddert in ['48', '49']",Non-Stationary,Stationary,Stationary
+21,"A2 & A3 -  geschreddert in ['48', '49']",Non-Stationary,Stationary,Stationary
+22,"A1 & A2 -  geschreddert in ['48', '49']",Non-Stationary,Stationary,Stationary
+23,"A3 -  geschreddert in ['48', '49']",Non-Stationary,Stationary,Stationary
+24,"A2 -  geschreddert in ['20', '21', '22', '23']",Non-Stationary,Stationary,Stationary
+25,"A1 & A2 -  geschreddert in ['20', '21', '22', '23']",Non-Stationary,Stationary,Stationary
+26,"A2 & A3 -  geschreddert in ['20', '21', '22', '23']",Non-Stationary,Non-Stationary,Stationary
+27,"A2 & A3 -  geschreddert in ['10', '11', '12', '13', '14', '15', '16']",Non-Stationary,Stationary,Stationary
+28,"A1 & A2 -  geschreddert in ['10', '11', '12', '13', '14', '15', '16']",Non-Stationary,Stationary,Stationary
+29,"A2 -  geschreddert in ['10', '11', '12', '13', '14', '15', '16']",Non-Stationary,Stationary,Stationary
+30,"A2 & A3 -  geschreddert in ['29', '30', '31', '38', '39']",Non-Stationary,Stationary,Stationary
+31,"A1 & A2 -  geschreddert in ['29', '30', '31', '38', '39']",Non-Stationary,Stationary,Stationary
+32,"A2 -  geschreddert in ['29', '30', '31', '38', '39']",Non-Stationary,Stationary,Stationary
