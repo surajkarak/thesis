@@ -28,7 +28,6 @@ To run the code in this project, you'll need:
   - [Visualizations](#visualizations)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
  
 ## Data
 The dataset used in this project consists of historical prices of wood waste in Germany. The data is divided into different clusters and categories for detailed analysis.
@@ -88,6 +87,3 @@ For this, I first “stored” the dataframes using the command “%store <dataf
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the MIT License.
